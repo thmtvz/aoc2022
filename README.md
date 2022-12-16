@@ -2,5 +2,5 @@
 
 Output takes the format:
 
-first_answer
+first_answer\n
 second_answer
