@@ -2,5 +2,7 @@
 
 Output takes the format:
 
-first_answer\n
+```
+first_answer
 second_answer
+```
